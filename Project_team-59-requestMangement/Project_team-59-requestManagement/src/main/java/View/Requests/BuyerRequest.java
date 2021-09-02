@@ -1,0 +1,16 @@
+package View.Requests;
+
+public enum BuyerRequest {
+    VIEW_CART,
+    SHOW_CART_PRODUCTS,
+    VIEW_ORDERS,
+    VEIW_PRODUCT,
+    DECREACE_PRODUCT,
+    INCREASE_PRODUCT,
+    SHOW_TOTAL_PRICE,
+    PURCHASE,
+    SHOW_ORDER,
+    RATE_PRODUCT,
+    VIEW_BALANCE,
+    VIEW_DISCOUNT_CODES
+}
